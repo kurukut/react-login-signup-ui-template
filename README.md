@@ -74,3 +74,4 @@ npx create-react-app react-login-signup-ui-template
 cd react-login-signup-ui-template
 npm install bootstrap
 npm audit fix --force
+npm install react-router-dom
